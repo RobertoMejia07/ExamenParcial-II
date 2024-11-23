@@ -8,6 +8,5 @@
  * @author rober
  */
 public class Persona {
-    
-    private 
+     
 }
